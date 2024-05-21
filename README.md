@@ -1,4 +1,4 @@
-# Hi there, I'm 3196909400! 👋
+# Hi there, I'm Mr.Duck! 👋
 - 👀 I’m interested in independent game development and JavaScript programming.
 - 🌱 I’m currently learning JavaScript and RPG Maker MV game engine.
 - 💞️ I’m looking to collaborate on open-source game projects or JavaScript libraries.
